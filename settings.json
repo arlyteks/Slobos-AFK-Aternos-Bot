@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Roma_Debil",
+    "username": "Bot_24na7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "balashark.aternos.host",
+    "ip": "lamprey.aternos.host",
     "port": 44985,
     "version": "",
     "try-creative": false
