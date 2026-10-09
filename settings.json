@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lamprey.aternos.host",
+    "ip": "electroncraft.aternos.me",
     "port": 44985,
     "version": "",
     "try-creative": false
